@@ -1,0 +1,150 @@
+.logo{
+  height: 200px;
+  margin-top: 10px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p,h1,h2,h3,h4,a{
+  font-family: arial;
+  color: rgb(95, 161, 106);
+  text-align: center;
+  margin: 0 auto
+}
+
+.title {
+  margin-top: 10px;
+}
+
+.about-title {
+  margin-top: 10px;
+}
+
+.text {
+  margin-top: 5px;
+}
+
+.about-title2{
+  margin-top: 90px;
+}
+
+.link {
+  color:rgb(95, 161, 106);
+}
+
+.link:hover{
+  opacity: 0.8;
+}
+
+.link:active{
+  opacity: 0.65;
+}
+
+.aboutme-link {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  display: block;
+}
+
+.game-title {
+  margin-top: 20px;
+}
+
+.games-link {
+  margin-top: 10px;
+  display: block;
+}
+
+.anime-title {
+  margin-top: 40px;
+}
+
+.animes-link {
+  display: block;
+  margin-top: 10px;
+}
+
+.button {
+  color: white;
+  border: none;
+  border-radius: 2px;
+  background-color: rgb(117, 156, 119);
+  padding: 11px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+.button:hover{
+  cursor: pointer;
+  opacity: 0.8;
+  transition: 0.3s;
+}
+
+.button:active{
+  opacity: 0.65;
+}
+
+.AM-title{
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.ptext {
+  margin-top: 15px;
+}
+
+.image {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.margin25{
+  margin-top: 25px;
+}
+
+.topnumber {
+  margin-top: 40px;
+}
+
+.bs-image{
+  max-width: 25%;
+}
+
+.bs-image2{
+  max-width: 10%;
+}
+
+.yellow {
+  color: goldenrod;
+}
+
+.silver {
+  color: silver;
+}
+
+.bronze {
+  color: rgb(163, 101, 101);
+  
+}
+
+.margin10{
+  margin-top: 10px;
+}
+
+.goodbye-logo {
+  max-width: 10%;
+  display: inline-block;
+  
+}
